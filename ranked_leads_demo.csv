@@ -1,0 +1,6 @@
+Name,Title,Company,Person_Location,HQ_Location,Funding_Stage,Published_DILI_Paper,Uses_InVitro,Open_to_NAMs,Propensity_Score,Rank
+Dr. Alice Brown,Director of Toxicology,Helix Bio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,100.0,1
+Dr. Mark Schneider,VP Safety Assessment,HepatoTech,Basel,Basel,Series C,Yes,Yes,Yes,100.0,2
+Dr. Raj Patel,Head of Preclinical Safety,LiveraTx,Cambridge MA,Cambridge MA,Series A,Yes,Yes,Yes,96.0,3
+Emily Wong,Junior Scientist,BioStart SF,Remote Texas,San Francisco,Pre-Seed,No,Yes,No,20.0,4
+John Smith,Senior Scientist,NeoPharma,San Diego,San Diego,Seed,No,No,No,0.0,5
