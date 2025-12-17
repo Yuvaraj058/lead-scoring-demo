@@ -12,7 +12,7 @@ st.write(
     "probability of working with 3D in-vitro models."
 )
 
-df = pd.read_csv(r"C:\Users\kartk\pro\data.csv")
+df = pd.read_csv("data.csv")
 df.columns = df.columns.str.strip().str.lower()
 
 def calculate_score(row):
@@ -68,3 +68,4 @@ st.dataframe(
     ],
     use_container_width=True
 )
+
